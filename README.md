@@ -11,16 +11,30 @@
 > This project aims to investigate whether Zipf’s Law of Abbreviation holds for a particular genre of text in different languages. We used Shakespeare's Sonnets in English and French, obtained from Project Gutenberg. We used spaCy to process the text and visualized the correlation between word frequency and length. 
 
 ## Install
+To use this project, you'll need to install the following dependencies:
 
 ```sh
 Python 3.10.12
 ```
+
+- `spacy`: to process and tokenize text
+- `pandas`: to create dataframes out of tokens pulled from the texts
+- `matplotlib`: to plot and create diagrams out of the data collected
+- `beautifulsoup4`: to parse text and cleanup HTML tags
+- `numpy`: for numerical computing
+
+You can install these dependencies using `pip`:
+
+```bash
+pip install spacy pandas matplotlib beautifulsoup4 numpy
 
 ## Author
 
 👤 **Ling Yan Li, Sara Di Donna, Stephen Buttner**
 
 * Github: [@Leticiaeat](https://github.com/Leticiaeat)
+* Github: [@saradidonna](https://github.com/saradidonna)
+* Github: [@sbuttner](https://github.com/sbuttner)
 
 ## 📝 License
 
