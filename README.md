@@ -13,20 +13,20 @@
 ## Install
 To use this project, you'll need to install the following dependencies:
 
-```sh
-Python 3.10.12
-```
-
+- `Python 3.10.12` or higher
 - `spacy`: to process and tokenize text
 - `pandas`: to create dataframes out of tokens pulled from the texts
 - `matplotlib`: to plot and create diagrams out of the data collected
 - `beautifulsoup4`: to parse text and cleanup HTML tags
 - `numpy`: for numerical computing
 
-You can install these dependencies using `pip`:
+First, make sure you have Python 3.10.12 installed. You can download it from the [Python website](https://www.python.org/downloads/) or install it via a package manager like [Anaconda](https://www.anaconda.com/products/distribution).
+
+Once Python is installed, you can install the other dependencies using `pip`:
 
 ```bash
 pip install spacy pandas matplotlib beautifulsoup4 numpy
+```
 
 ## Author
 
