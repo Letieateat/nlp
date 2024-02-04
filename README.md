@@ -24,7 +24,7 @@ Python 3.10.12
 
 ## 📝 License
 
-Copyright © 2024 [Ling Yan Li, Sara Di Donna, Stephen Buttner](https://github.com/Leticiaeat).<br />
+Copyright © 2024 [Ling Yan Li, Sara Di Donna, Stephen Buttner].<br />
 This project is [MIT](https://opensource.org/license/mit/) licensed.
 
 ***
